@@ -1,0 +1,7 @@
+
+#create a laravel project
+
+composer create-project laravel/laravel HabibExm1-app
+
+
+php artisan make:controller UserController
